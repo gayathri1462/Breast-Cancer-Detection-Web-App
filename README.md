@@ -32,16 +32,14 @@ http://127.0.0.1:5000/
 2.	app.py — This contains Flask APIs that receives cells details through GUI or API calls, computes the predicted value based on our model and returns it
 3.	templates & static  — This folders contains the HTML template and CSS styling to allow user to enter cells details and displays the predicted output.
 
- 
-
-### 3.Backend creation using model.pkl file
+### 4.Backend creation using model.pkl file
 
 Use this pretrained model and connect it with our Flask application.
 Use this for prediction for model and to show the output
 
-### 4. Adding form to flask app
+### 5. Adding form to flask app
  
-### 5.Integrating web application with machine learning backend.
+### 6.Integrating web application with machine learning backend.
 
 
 
