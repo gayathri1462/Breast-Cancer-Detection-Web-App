@@ -1,6 +1,6 @@
 # Breast Cancer Detection Web Application
 
-## A Web Application to predict Breast Cancer using SVM  
+## A Web Application to predict Breast Cancer using SVM  (Deployed on Heroku)
 
 #### Video link to see the working: https://youtu.be/ntSBQy5JriQ
 
