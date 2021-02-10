@@ -2,9 +2,9 @@
 
 ## A Web Application to predict Breast Cancer using SVM  (Deployed on Heroku)
 
-#### Video link to see the working: https://youtu.be/ntSBQy5JriQ
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
-[![Alt text for your video](https://i9.ytimg.com/vi/ntSBQy5JriQ/mq1.jpg?sqp=CICGkIEG&rs=AOn4CLDO3OCmayRI7y7zLqk9QJxP20YPQg)](https://youtu.be/ntSBQy5JriQ)
+#### YouTube link to see the working: https://youtu.be/ntSBQy5JriQ
 
 #### Working link: (Deployed on Heroku) https://cancer-flask-app.herokuapp.com/
 
