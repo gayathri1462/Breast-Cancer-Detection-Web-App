@@ -4,6 +4,8 @@
 
 #### Video link to see the working: https://youtu.be/ntSBQy5JriQ
 
+[![Alt text for your video](https://i9.ytimg.com/vi/ntSBQy5JriQ/mq1.jpg?sqp=CICGkIEG&rs=AOn4CLDO3OCmayRI7y7zLqk9QJxP20YPQg)](http://www.youtube.com/watch?v=VIDEO-ID)
+
 #### Working link: (Deployed on Heroku) https://cancer-flask-app.herokuapp.com/
 
 ### 1.Project Requirements or Dependencies
